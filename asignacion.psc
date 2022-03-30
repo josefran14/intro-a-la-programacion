@@ -1,0 +1,3 @@
+Algoritmo asignacion
+	
+FinAlgoritmo
