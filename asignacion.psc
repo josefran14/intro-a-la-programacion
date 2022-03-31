@@ -7,4 +7,5 @@ Algoritmo asignacion
 	resultado<-num1 + num2;
 	
 	Escribir "El resultado de la suma es ",resultado;
+	
 FinAlgoritmo
