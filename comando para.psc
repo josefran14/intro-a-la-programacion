@@ -1,3 +1,5 @@
-Algoritmo sin_titulo
-	
+Algoritmo comando_para
+	Para num<-1 Hasta 10 Con Paso 1 Hacer
+		Escribir "Hola mundo";
+	Fin Para
 FinAlgoritmo
