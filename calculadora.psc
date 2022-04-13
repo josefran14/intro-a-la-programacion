@@ -11,6 +11,19 @@ Algoritmo calculadora
 		
 		Leer  opc ;
 		
+		Segun opc Hacer
+			1:
+				Escribir "Elegiste hacer una suma";
+			2:
+				Escribir " Elegiste hacer una resta";
+			3:
+				Escribir " Elegiste hacer una multiplicacion";
+			4:
+				Escribir "Elegiste hacer una division";
+			De Otro Modo:
+				Escribir "Elegiste una opcion incorrecta";
+		Fin Segun
+		
 	Hasta Que opc > 0 Y opc < 5
 	
 	
